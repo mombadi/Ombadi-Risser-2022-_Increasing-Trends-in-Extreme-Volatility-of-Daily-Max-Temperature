@@ -1,8 +1,8 @@
 # Ombadi-Risser-2022-_Increasing-Trends-in-Extreme-Volatility-of-Daily-Max-Temperature
 
-This repository contains all the Python codes for the analysis and visualization of results presented in the article "Ombadi & Risser (2022) What’s the temperature tomorrow? Increasing Trends in Extreme Volatility of Daily Maximum Temperature in Central and Eastern United States (1950 – 2019), Weather and Climate Extremes, https://doi.org/10.1016/j.wace.2022.100515". All the codes are broken into a number of Jupyter notebooks.    
+This repository contains all the Python codes for the analysis and visualization of results presented in the article "Ombadi & Risser (2022) What’s the temperature tomorrow? Increasing Trends in Extreme Volatility of Daily Maximum Temperature in Central and Eastern United States (1950 – 2019), Weather and Climate Extremes, https://doi.org/10.1016/j.wace.2022.100515". 
 
-The repositroy contains the following Jupyter notebooks:
+All the codes are broken into a number of Jupyter notebooks. The repositroy contains the following Jupyter notebooks:
 
 (1) GHCN: This notebook has the codes for the analysis performed on the GHCN stations data including computation of volatility, its climatology, timing, directionality and trends. The notebook has a section for regionally aggregating the trends data to the climate divisions of the US defined by NOAA NCEI. The analysis provided in this notebook is the major part of analysis for the paper.
 
