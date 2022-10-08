@@ -6,7 +6,7 @@ This repository contains all the Python codes for the analysis and visualization
 
 All the codes are broken into a number of Jupyter notebooks. The repositroy contains the following Jupyter notebooks:
 
-(1) GHCN: This notebook has the codes for the analysis performed on the GHCN stations data including computation of volatility, its climatology, timing, directionality and trends. The notebook has a section for regionally aggregating the trends data to the climate divisions of the US defined by NOAA NCEI. The analysis provided in this notebook is the major part of analysis for the paper.
+(1) GHCN.ipynb: This is the main notebook for the analysis performed on the GHCN stations data including computation of volatility, its climatology, timing, directionality and trends. The notebook has a section for regionally aggregating the trends data to the climate divisions of the US defined by NOAA NCEI. The analysis provided in this notebook is the major part of analysis for the paper.
 
 (2) GHCN Homogenized: Similar to notebook (1) with necessary modifications applied to the GHCN-Homogenized dataset (Rennie et al. 2019).
 
