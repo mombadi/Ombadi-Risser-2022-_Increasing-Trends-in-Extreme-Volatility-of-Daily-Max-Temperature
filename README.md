@@ -1,5 +1,5 @@
 # Ombadi-Risser-2022-_Increasing-Trends-in-Extreme-Volatility-of-Daily-Max-Temperature (https://doi.org/10.1016/j.wace.2022.100515)
-@Ombadi 2022, ombadi@lbl.gov
+@Ombadi 2022 (ombadi@lbl.gov)
 If you use any part or all of the codes in this repo, we ask you to cite the article above.
 
 This repository contains all the Python codes for the analysis and visualization of results presented in the article "Ombadi & Risser (2022) What’s the temperature tomorrow? Increasing Trends in Extreme Volatility of Daily Maximum Temperature in Central and Eastern United States (1950 – 2019), Weather and Climate Extremes, https://doi.org/10.1016/j.wace.2022.100515". 
